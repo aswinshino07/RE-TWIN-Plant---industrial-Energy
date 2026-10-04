@@ -1,0 +1,6 @@
+{
+  "name": "RE-TWIN Plant - Industrial Energy Intelligence",
+  "description": "Verified Energy Savings and Carbon Transparency for Indian SME Manufacturers. Measure, Baseline, Diagnose, Optimise, Decide, Verify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
